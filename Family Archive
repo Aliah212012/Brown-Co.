@@ -1,0 +1,157 @@
+<html> 
+<head> 
+        <title> Family Archive </title>
+        <link rel= "stylesheet" href "style.css">
+</head>
+    
+    <body> 
+        <main> 
+            <header> 
+                <p><img src= "https://learn.alg.academy/uploads/2021/01/logo_0_1611261359.svg"> 
+                <span class="highlight">Photos</span>    </p>
+                
+            </header>
+            <p id="Brown"> Family Archive </p>
+        </main>
+
+        <p class="we"> Children's Contests</p> 
+        <img class="one"src = "https://s3-alpha-sig.figma.com/img/e168/c30f/a51aa51defe7233063fd20d45760106a?Expires=1745798400&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=Pgn74Il1RjvOpVA644-8kALdj8iVrElVCHnheqWID6wvAKbGUHjQNUafXauiyRY82e~rz3FsiWEqeIwvwA~2VZyTSnCVEtDJA95LU2TdXCDpI8oc~PQhW2KBfnctkHFxH50mFv~1DPpC7qGfn9U50LvJLBGyqOSy-vzo5x06fuq9ls2O5lGpOU49ZjeGU67XMYAL2XoRFOh8h5yTcMYVQcQqc713DA1Otx7aYWbV4cvOjH5Fa5o2pDvQNTP82xznorlbl839c7g-0neQts1HQYQDxj0gTwjJnlI4smhyqFiEMqwrFGHehQHL36SSws2tAl~ksdGAVhz-g7C6s1jNFA__"> 
+        <img class="two"src = "https://s3-alpha-sig.figma.com/img/e703/d7f0/ef0fad5a2793f8dc6440e0b7e724ab58?Expires=1745798400&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=UqoXpJ4nJUSj18A315p8dOYmIwZyfyFMDvZ70tprAmJ5rJ85aQwnS0vH~kOpJjgQru2REMj2ThAKNNgHNXz1YBySVnKQa37eOS9kTuwM5LznqlNSlXLSWns3IoqkMugfE3MQpe8XTnPt5uYnBiTJxUoItm9ZYST3t8EOpM7PfqhcG46wm70rHhk7C5jYxNpNQxm-cuO6gFz8WSWUYcyOCTvJeWL3K8w2iGHWWj53QmRHZ4ZiFrvXnDAXn-~kSSxnYLNf9dpVZ3GiJeaKm0Nu~UxxM9crm6N941BnPLo1M-BK4PcxYgHAjbRifpnh6T1s9XIiF9YpTKczHzvrSAn14Q__">
+        <img class="three"src = "https://s3-alpha-sig.figma.com/img/7671/5dfd/f60bd22ef176f8a25cee94dc565111e0?Expires=1745798400&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=rexXg8IuYq7~n4kniLvlW2qelm5VeMXnilH1ABAZfPvmqmX9pGAgOLwVBIE-QIgeyaLqaktB4V4s4dZu4hZ-~k2cw62~I25J-dBKwb6uY2t25M6G~0RzhhSnjhep4zLqNQpYfxKO3Nv-htdYtFUBZotd~0HCxe6acJmmbMnAgnmeisRSMRcJG3anPEC3EW~8mpfAT5bxglN-Gtyl5xuuujSFJr3gvBxbElN3AEQnZlDshI~kbxKdUvvSmYrpJj3CZ9oayuBk7HB7kCjKjcoabpioQw0V0zL~SdRwRaPsJEIK68PL~Tj9VvDGILNlxOwb3WRxklj-4nK7i~Nw~rJj3g__">
+        <br>
+        <br>
+        <img class="four"src = "https://s3-alpha-sig.figma.com/img/2db6/3501/de7ecb7c1d36687f9c70d65983f8afe9?Expires=1745798400&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=s8MUVFcQky2cUHlGVkjLn-zZSQ693TT1CuV8LCCBzJz6kd-66xbaDDR8yQi5h7M1sSHG5RrYeRxfc36jVtViVosv8P0OxIRfSpzO9RpopEnjZt4pfObotJ-LQs3iy~voOA20gl-TWrJ1nGsyZE70eVybECURlHwDTh76GLsPUx-k85GH0dRF7MjcY1AaMBdH2j3yET55rjnuVxVUHCgBKsmhEeYVIMsFagi~-5VJbwwTR3REWanxcDbTem6NW-Baq84s7o75gmnF47D-572gRk41JNsCPGGR9kqO~EI4f0hunQRMWrIJX9Ba1VKh0Yz6mC2AkCLByNTeyOhSmeVjhw__">
+        <img class="five"src = "https://s3-alpha-sig.figma.com/img/032e/f085/1a0ca9590b5057b5ada6a7f96a141d1b?Expires=1745798400&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=aLVsxQyFA2gXzqCMO6-9weHmX-KId8pbXRliCPzeNzq-sHR5ZfdD5yml-KuOXmBO7rDO4ylawo2YzO-DnODsmUebF0H-iAOcXetKMO9A4Mv2A5BSnLsId1p1z3xqhi44mbhr~QJVIx9d-qa6fslq4Sd60mP9yuoor0FG8aWoS42xuykGXhQNhxa3vmOHTeE8RorczwxCm6--Ig3~uYPHtuFtKQ7KdVdo8y9ZcKmFz0EvMuVYe11s1wROFnHg77W0zOCU7RgML2TUap6kuPXsV1OGmL~fvoYZMqXPvC~p-ZJ2~eYQexq0Fp30FTbBMDpbDFR2NO6UaGZ3uyIFCr5K7A__">
+        <img class="six"src = "https://s3-alpha-sig.figma.com/img/98a4/a3fd/ff02b41015dffc47eae7dc2ab6febd68?Expires=1745798400&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=Co7tqQZtK20GC6~aLp2m4NgObSgoQL-DEestgzh3yxEHWD0EJRdWWvuWgsWAPQTtFulb2q5J6d9BGHTo~CGjgiRwbSCOEJhz9AwFylzgPVGdNGGv6ChQgOkP8xx0SHRCTGOFoM73ku1zv-BVmUHVz7mizUEI1u15GF8GV2JbHUuH6gfPkIeacM1RFeGI59gSY4uJ4wTrKsP8CzYuv8ou9Vwl3xPgPlRfbRdxZwRIS~Dv7EwK5QH6F-nTnHaMJ00m95AiECjzQGgbZp4WyEX~zCiy6Co6PMi4T2EVdDDFhKGXeAqlmLmmByej1zY2pn3J5eEZKocOffEG8iXa8S1uPg__">
+        <img class="seven"src = "https://s3-alpha-sig.figma.com/img/2633/e53b/ddfbf397fa881d03440bdab11a419828?Expires=1745798400&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=L0SXZUx~EIK-r6Vr7e0K7qG0WGT1k7Svpb6NyfdTaDZp9fblRlcGFarZNhZbwgIM9Rmol8LQEKT2vEWaSs-H8DwD5Om4x4-aucqNv7GfXjWYG-SlcvEkLT7mrd7JRVCmEbeCozGOn21vSzseDtvpuKFLBl5NEduvOuhahe-Av93vqtCnrfgRhybkRO7SVPTmcyDrjAjHByK4lD~ubfaHvi2XAQQHVRMI4Z3-EIeBCC5hfV3t7CFqu9hm-tGzITClcWyJkHPU6D0RBgwBRlcha4M9bHeLpsTKNOcftndpsvgKE8OAeDWdqnn9qoWYJggIEraRZ9BoPGyWiMOQ3MNqWg__">
+        <br>
+        <br>
+        <br>
+        <p class="we"> Country house</p> 
+        <img class="eight"src = "https://s3-alpha-sig.figma.com/img/429a/330b/8cc22235c88a983977fafa2d81178c44?Expires=1745798400&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=kKi-JthvNsJFO8dF~Ox6s1qTYXFXfnO68xHUkhIQ5hvz7eLn8nz1L3nw3GLgqQ86ew3Lb5MTEpW5QfCPVJKW8~RFYjer5F40To58DDhuc869LqpuqibE4D71eKoGo39OQWHEYbHqx7~kn-MuDgOqwp0Iw09vYMJ7S~Wt8nOLnPR-2E6kLM245dZZTuqGXj3dQeXFqyLGBfatsYsMFQsAsXQMknp4YO9M6leeUO61grbQYnEOmf7ygQWWyT2yYFu~ILTysXMbv4auQOselDW6skGcBRdOmrdrYTpAZU-zhXRZoMPJ4~7BEXVyL1WrWm8WljjqDxAaMOLmsVuU8YqeLQ__"> 
+        <img class="nine"src = "https://s3-alpha-sig.figma.com/img/84be/3d4d/5652f41cb17969b9456acac4bb5041f3?Expires=1745798400&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=MFOBb-HgybAQEb0E5CVpABg0Oxh6dkOkfhI5Hl-IhKaev2eBTdQrYuDGmgHLXQO~Nn-Btd3Oyu-PsdKWDwZ3S~Kg84-CkFdJ-U2NUEV1rkOtbaQUfHv24-Qydw3Ta7xG55p4Ir0-tQmhlJu2b~E2XCjtYPZ1U6iFTEhHLRftl7-yUXpJX74bx0dqxJ5nqAtrwES7t8Fu8vs4JchsAslCHmlQsDY4A7QWJgW2qKrzNS9yRuWkD9e5Ngbf-CwBB-T~yj3tFIifeF-K01vKm2lnL2NQuPyiiAWQqDf4ZH0XeJ8cgct754KnyXD6IGwr~hyN5ozug2BqGsuVWQLd2ViY9A__">
+        <br>
+        <br>
+        <br>
+        <p class="we"> Resort, 2018</p> 
+        <img class="ten"src = "https://s3-alpha-sig.figma.com/img/fcf8/d280/f732a7b55fe114abe2257b28c897d95a?Expires=1745798400&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=DfqmJj87CLi9NgqBHQtGuvlo6LPihyEfYAzcUeR2tRD~ZJ2elQzcwiPUduVqLE006f-wVIHxQP7d0VHz-p8aby-lXj1MwiNNMHMzpNazIKXiR7SOMuS63SxKg-GQQwiqqlW5ALMsDtLKvtk-6GES4ATEBQuaw5aivrB6M~5uN3dHyYOi8jQaR-Jp1SBxpUJTB78dlDZToFqNm0NknQXLyJJbenQrm-Fh8swg5iw2-AEFh0akPMpPBiYr2al99qNQBJBjQUVizKIkWUcD4rU2wfq2pEoMaXr6VAGavkKvJ32VKjVo~C~mVVVZ1hcNxuyhAUBSdwtcjTd1wPAr4H-u5Q__"> 
+        <img class="tenn"src = "https://s3-alpha-sig.figma.com/img/f85e/7a8e/206755c3665a391e5288aa96dba5b702?Expires=1745798400&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=hbjyQMG6O4c9B6cTySF5BzGWn4XJScWOz7lCC00nbv5cBdTN2lKD8GGQY916oFrufQZM1SFBU2Ej5JB8GZ9h4~~MLoh9byMxhNse0yMiR9ObpYiUq~TCC9eJAbyYN0iJeKvvutTynGtKBz~~BUrzNwfGN7wZuhVFZ~suJo7Zhir3WoHuMEPsMZxHe~2vxFFwSAVZ~iMKbzneyQ6gxa239iEYGaiIvhF0aJ~tN9ySqJblCDJvPbT8kAQDNyl0CDah6xSzrAyiMrMVZzAI~G9WPhxN0o8uiJs5VGFOi~cCRkXSSZaOlUsFzMqCxrxoG0nzA1wuPSQKQKlbbvdo0INKAg__">
+        <img class="tennn"src = "https://s3-alpha-sig.figma.com/img/ee46/b639/283bf218cfd557bfe0ca63e043e54550?Expires=1745798400&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=Itw9rAD2Otlh5UqrYVbawqvlCA9YgqDMOHDu4HDHCUeIF~hREfK0ebR6~jLbhRdqpYQPnl6CrokNnk1vg1ncaIv1t4vb4yhwzlml-J-tCXEeTmzH~LBHOw11TsgI6Mi-CMYve2MmDrWRVFTASAOQLBd9-svOw--zg383ldhKrYDKXUEq~OeZjdnIqYFJ1Ibe2rzLQWFcOJUXAmvmmi8SdarAfuEwMB4uOwVLPiuxXyrqW8OmePe9rHV5Q~FayKXmBhfEUOU-VM3PEd20hJ4cEhq6VjY6OCZ2OXBLIv9v2o-GXeW-23yVdIdYp5HGtsfFVFmtyUoGn1kLhz~LLy-Sgg__">
+        <img class="tennnn"src = "https://s3-alpha-sig.figma.com/img/b04b/09aa/432c9b0f358194d5344822802a4d0808?Expires=1745798400&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=s0SVCqBhzwvvUMjzmQC1uqQ3DIL0VVjArfOSJVqWhuQUDkQMB7sAKIdcg1PNEw4aWTP61vBLZM0kk9tJ9iGlfYD6ebXAXs79kE-sUuc6GgW1hO5plMdjo8HPAIY-hMGV6u41VL3gnutySfACs2xxzued~9ZGFXfz-dGgnhI12kaHiE2zUQUKlcNaH9lifGBRYvDLGkgl4FrGnsxdOVrZMqOSC6WnlwjSlNEq37OZ6eLvhs85ZzA81VBPJJ3WkUWYBXzVgA8jiRmV48FhcCY2DQpyRF9KMko3~askT8vylC1BdCyl1RnMeomoEGOzfzPjy3-18grLxBe0wANWdbnlpQ__">    
+        
+        
+        <footer> 
+            <p> Email: </p>
+            <p> Telephone: </p>
+        </footer>
+    </body>
+</html>
+
+header {
+    background-color: #0776A0;
+}
+
+header img {
+    width: 105px;
+    height:60px;
+    margin-top:20pxpx;
+    margin-left:15px;
+    background-color: #0776A0;
+}
+
+p {
+    font-family: Montserrat;
+    font-size: 36px;
+}
+
+h1 {
+    text-align: center;
+}
+
+.we {
+    color:red;
+    font-family:Montserrat;
+    font-size: 36px;
+}
+
+footer {
+    background-color: #0776A0;
+}
+
+.highlight {
+    background-color: #FFB600;
+    border-radius: 6px; 
+    margin: 6px, 6px, 10px;
+}
+
+footer p{
+    color:white;
+    padding-top: 10px;
+    margin-right: 20px;
+    margin-left: 20px;
+    padding-bottom:5px;
+}
+
+.one {
+    width: 190px;
+    height: 250px;
+}
+
+.two {
+    width: 371px;
+    height:250px;
+}
+
+.three {
+    width: 210px;
+    height:250px;
+}
+
+.four {
+    width: 210px;
+    height:250px;
+}
+.five {
+    width: 165px;
+    height:250px;
+}
+
+.six {
+    width: 175px;
+    height:250px;
+}
+
+.seven {
+    width: 210px;
+    height:250px;
+}
+
+.eight {
+    width: 265px;
+    height:335px;
+}
+
+.nine {
+    width: 530px;
+    height:335px;
+}
+
+.ten {
+    width: 400px;
+    height:270px;
+}
+
+.tenn {
+    width: 395px;
+    height:270px;
+}
+
+.tennn {
+    width: 400px;
+    height:270px;
+}
+
+.tennnn {
+    width: 395px;
+    height:270px;
+}
